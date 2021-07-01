@@ -1,0 +1,341 @@
+/* CORPO */
+
+body {
+    font-family:Nunito, sans-serif;
+    color: #1c1c1c;
+}
+
+h1, h2, h3 {
+    font-family: asap , sans-serif;
+    color: #df5607;
+}
+
+.botao { 
+        color: #181717;
+        text-decoration: none;
+        padding: 10px 30px;
+        background-color: #df5607;
+        font-size: .9em;
+        border-radius: 3px;
+
+}
+
+ /* navegação */
+
+ nav {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #252525 ;
+        background-image: url("../img/texture-1893783_1920.jpg");
+        padding: 5px;
+        
+}
+
+ nav > a {
+
+         text-decoration: none;
+         color: #df5607;
+         font-weight:900 ;
+         font: size 32px;
+         font-family: Yellowtail, sans-serif;
+}
+
+nav ul {
+
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         list-style: none;
+         padding: 0%;
+         width: 100%;
+
+
+}
+nav ul li { 
+      
+         text-align: center;
+         width: 100%;
+}
+
+nav ul li a { 
+
+           display: inline-block;
+           padding: 10px 0;
+           width: 100%;
+           text-decoration: none;
+           color: #0a0a0a;
+}
+
+/* cabeçalho */
+
+header {
+
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         background-color: #000000;
+         background-image: url("../img/alongamento.png");
+         background-size: cover;
+         background-repeat: repeat;
+         background-position: center;
+         color: #FFFFFF;
+         text-align: center;
+         padding: 200px;
+
+}
+
+header h1 { 
+
+    color: #df5607;
+}
+
+header p { 
+    margin-bottom: 2em;
+
+}
+/* contato */ 
+#contato { 
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         text-align: center;
+         padding: 10px 10px 30px 30px;
+         background-color: #101018;
+         color: #FFFFFF;
+         background-image: url(../img/adult-1850925_640.jpg);
+         background-repeat:initial
+}
+
+#contato h2 { 
+    color: #FFFFFF;
+}
+
+#contato p {
+    margin-bottom: 2.5em;
+    max-width: 1000px;
+
+}
+
+#sobre .botao{
+    background-color: #f1f1f1;
+    color: #1c1c1c;
+
+}
+/*serviços */
+
+#serviços {
+          display: flex;
+         flex-direction: column;
+         align-items: center;
+         padding: 30px;
+         text-decoration: none;
+         color: #FFFFFF;
+         background-color: #252525;
+
+}
+
+
+
+
+/* contatos */
+
+#contatos {
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         padding: 20px;
+}
+
+#contatos h2 {
+
+         color: #000000;
+
+}
+
+/* rodape */
+
+footer {
+
+         text-align: center;
+         padding: 10px;
+         background-color: #101018;
+         color: #FFFFFF;
+
+}
+
+footer a {
+         text-decoration: none;
+         color: #cc8a0f;
+
+}
+/*serviços.html */
+
+/* CORPO */
+
+body {
+    font-family:Nunito, sans-serif;
+    color: #1c1c1c;
+}
+
+h1, h2, h3 {
+    font-family: asap , sans-serif;
+    color: #df5607;
+}
+
+.botao { 
+        color: #181717;
+        text-decoration: none;
+        padding: 10px 30px;
+        background-color: #df5607;
+        font-size: .9em;
+        border-radius: 3px;
+
+}
+
+ /* navegação */
+
+ nav {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #252525 ;
+        
+}
+
+ nav > a {
+
+         text-decoration: none;
+         color: #df5607;
+         font-weight:900 ;
+         font: size 32px;
+         font-family: Yellowtail, sans-serif;
+}
+
+nav ul {
+
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         list-style: none;
+         padding: 0%;
+         width: 100%;
+
+
+}
+nav ul li { 
+      
+         text-align: center;
+         width: 100%;
+}
+
+nav ul li a { 
+
+           display: inline-block;
+           padding: 10px 0;
+           width: 100%;
+           text-decoration: none;
+           color: #FFFFFF;
+}
+
+/* cabeçalho */
+
+header {
+
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         background-color: #000000;
+         background-image: url("../img/man-2264825_1920.jpg");
+         background-size: cover;
+         background-repeat: repeat;
+         background-position: center;
+         color: #FFFFFF;
+         text-align: center;
+         padding: 200px;
+
+}
+
+header h1 { 
+
+    color: #df5607;
+}
+
+header p { 
+    margin-bottom: 2em;
+
+}
+/* contato */ 
+#contato { 
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         text-align: center;
+         padding: 10px 10px 30px 30px;
+         background-color: #101018;
+         color: #FFFFFF;
+         background-image: url(../img/adult-1850925_640.jpg);
+         background-repeat:initial
+}
+
+#contato h2 { 
+    color: #FFFFFF;
+}
+
+#contato p {
+    margin-bottom: 2.5em;
+    max-width: 1000px;
+
+}
+
+#sobre .botao{
+    background-color: #f1f1f1;
+    color: #1c1c1c;
+
+}
+/*serviços */
+
+#serviços {
+          display: flex;
+         flex-direction: column;
+         align-items: center;
+         padding: 30px;
+         text-decoration: none;
+         color: #FFFFFF;
+         background-color: #252525;
+
+}
+
+
+
+
+/* contatos */
+
+#contatos {
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         padding: 20px;
+}
+
+#contatos h2 {
+
+         color: #000000;
+
+}
+
+/* rodape */
+
+footer {
+
+         text-align: center;
+         padding: 10px;
+         background-color: #101018;
+         color: #FFFFFF;
+
+}
+
+footer a {
+         text-decoration: none;
+         color: #cc8a0f;
+}
